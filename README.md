@@ -91,9 +91,9 @@ Written in **Arduino C++**.
 
 ---
 
-### Robot
+### CLASH Bot — Full Assembly
 
-![Robot Build](robot/robot-build.jpg)
+![CLASH Bot — Full Assembly](robot/robot-build.jpeg)
 
 ---
 
