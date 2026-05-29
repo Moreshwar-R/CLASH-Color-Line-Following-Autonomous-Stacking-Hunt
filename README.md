@@ -70,6 +70,7 @@ An autonomous robot built for CLASH, a two-phase robotics competition held at Bu
 - LM2596 buck converter — stepped-down logic rail for ESP32 and sensors
 - XL4015 5A buck converter — separate higher-current rail for servo and motors
 
+> ESP32 Pinout Reference — [mischianti.org](https://mischianti.org/esp32-dev-kit-v1-high-resolution-pinout-and-specs/)
 ---
 
 ### Software
